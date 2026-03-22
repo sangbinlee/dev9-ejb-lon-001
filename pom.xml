@@ -2,12 +2,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.dev9</groupId>
-		<artifactId>dev9-ejb-lon</artifactId>
+		<artifactId>dev9-parent-ejb-lon</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>dev9-ejb-lon-001</artifactId>
 	<name>dev9-ejb-lon-001</name>
 	<description>dev9-ejb-lon-001</description>
-
-
 </project>
